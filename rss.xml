@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BrandonHarrington]]></title>
         <description><![CDATA[BrandonHarrington]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brandonharrington/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 23:15:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 23:22:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brandonharrington/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/hl_XH_rUERc</p>]]></description>
+            <link>https://thegrid.ai/brandonharrington/httpsyoutubehl_xh_ruerc/index.html</link>
+            <guid isPermaLink="false">34e87e0f-7974-4665-8984-b1f62f627f00</guid>
+            <pubDate>Tue, 19 Apr 2016 23:22:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7922f680-e834-4b2a-8d4c-6f7616fa709a.jpg">]]></description>
-            <link>undefined0e482c0c-3ea9-4f75-a6c1-9324a4a49c68/index.html</link>
+            <link>https://thegrid.ai/brandonharrington/0e482c0c-3ea9-4f75-a6c1-9324a4a49c68/index.html</link>
             <guid isPermaLink="false">0e482c0c-3ea9-4f75-a6c1-9324a4a49c68</guid>
             <pubDate>Tue, 19 Apr 2016 23:15:31 GMT</pubDate>
         </item>
