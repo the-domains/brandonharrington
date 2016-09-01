@@ -1,19 +1,4 @@
-name: BrandonHarrington
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.28131
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#160d09'
@@ -25,4 +10,20 @@ color:
   lightness: 0.75
   saturation: 0.75
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: BrandonHarrington
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Guitarist and Utility
 purpose: []
